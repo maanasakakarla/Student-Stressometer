@@ -21,9 +21,3 @@ The project evaluates how stress and other mental health factors influence stude
 - **Built using Streamlit** for interactive visualization.
 
 ---
-
-## 🚀 How to Run the Project
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/student-stressometer.git
-   cd student-stressometer
